@@ -6,10 +6,6 @@
 **Period:** June 4, 2024 — July 31, 2024  
 **Role:** Intern  
 
----
-
-![Internship Case Study Presentation]
-*Presenting forensic toxicology case study at the conclusion of my internship*
 
 ---
 
