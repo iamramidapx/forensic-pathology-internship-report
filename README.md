@@ -8,7 +8,7 @@
 
 ---
 
-![Internship Case Study Presentation](IMG_2479.jpg)
+![Internship Case Study Presentation]
 *Presenting forensic toxicology case study at the conclusion of my internship*
 
 ---
