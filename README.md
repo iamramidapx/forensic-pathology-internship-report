@@ -1,6 +1,7 @@
 # Forensic Pathology Internship Report
 
 **Author:** Ramida R. 
+
 **Institution:** Forensic Pathology Division, Institute of Forensic Medicine, Police General Hospital, Bangkok, Thailand  
 **Period:** June 4, 2024 — July 31, 2024  
 **Role:** Intern  
